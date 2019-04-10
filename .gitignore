@@ -1,0 +1,4 @@
+*.swp
+/scraping/**/node_modules
+/simple-chat/node_modules
+
